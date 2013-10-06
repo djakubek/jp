@@ -42,4 +42,8 @@ print("hello word");
 
 ```sh
 tar jxvf Sublime\ Text\ 2.0.2.tar.bz
+cd Sublime\ Text\ 2
+chmod 755 sublime_text
+./sublime_text
 ```
+I program dziala :)
