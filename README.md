@@ -16,7 +16,7 @@ jp
 ## Zmiana hasła
 
 ```sh
-passwd
+passwd #ctrl+c aby przerwać
 ```
 
 Być może trzeba bedzie się zalogować na Sigmę/ Wp.pl :
