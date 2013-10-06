@@ -6,7 +6,7 @@ jp
 
 * oswajanie notacji markdown.
 * podstawy secure shell.
-- khdfkdj
+
 
 
 
