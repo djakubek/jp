@@ -36,3 +36,10 @@ print("hello word");
 [daringfireball]: http://daringfireball.net/projects/markdown/basics
 [stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
 [ciekawe]:http://wbzyl.inf.ug.edu.pl/sp/
+
+## Edytory 
+* Rozpakowywanie
+
+```sh
+tar jxvf Sublime\ Text\ 2.0.2.tar.bz
+```
