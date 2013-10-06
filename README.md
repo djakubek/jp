@@ -8,6 +8,7 @@ jp
   - [dodawanie obrazków] [stackoverflow-screenshots]
 * podstawy secure shell.
 * edytory
+* [ciekawe]
 
 
 
@@ -34,3 +35,4 @@ print("hello word");
 ```
 [daringfireball]: http://daringfireball.net/projects/markdown/basics
 [stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
+[ciekawe]:http://wbzyl.inf.ug.edu.pl/sp/
