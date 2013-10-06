@@ -9,6 +9,7 @@ jp
 * podstawy secure shell.
 * edytory
 * [ciekawe]
+* [Sublimteks] <- Program
 
 
 
@@ -36,6 +37,7 @@ print("hello word");
 [daringfireball]: http://daringfireball.net/projects/markdown/basics
 [stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
 [ciekawe]:http://wbzyl.inf.ug.edu.pl/sp/
+[Sublimteks]:http://www.sublimetext.com/
 
 ## Edytory 
 * Rozpakowywanie
