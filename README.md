@@ -11,7 +11,7 @@ jp
 * [ciekawe]
 * [Sublimteks] <- Program
 * [LightTable] <- Program php, html Bajka !
-
+* konfiguracja srodowiska graficzne xfce
 
 
 
