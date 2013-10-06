@@ -10,6 +10,7 @@ jp
 * edytory
 * [ciekawe]
 * [Sublimteks] <- Program
+* [LightTable] <- Program php, html Bajka !
 
 
 
@@ -38,6 +39,7 @@ print("hello word");
 [stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
 [ciekawe]:http://wbzyl.inf.ug.edu.pl/sp/
 [Sublimteks]:http://www.sublimetext.com/
+[LightTable]:http://www.lighttable.com/
 
 ## Edytory 
 * Rozpakowywanie
