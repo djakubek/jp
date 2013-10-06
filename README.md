@@ -21,8 +21,8 @@ passwd #ctrl+c aby przerwać
 
 Być może trzeba bedzie się zalogować na Sigmę/ Wp.pl :
 
-```ssh
-k.a.s.z.u.b@w.pl
+```sh
+ssh k.a.s.z.u.b@w.pl
 ```
 Przykładowy program w C:
 
