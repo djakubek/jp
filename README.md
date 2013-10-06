@@ -4,8 +4,10 @@ jp
  Program na dzisiaj : 
 
 
-* oswajanie notacji markdown.
+* oswajanie [notacji markdown] [daringfireball]
+  - [dodawanie obrazków] [stackoverflow-screenshots]
 * podstawy secure shell.
+* edytory
 
 
 
@@ -30,7 +32,5 @@ main(){
 print("hello word");
 }
 ```
-<p>I get 10 times more traffic from <a href="http://google.com/"
-title="Google">Google</a> than from <a href="http://search.yahoo.com/"
-title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
-title="MSN Search">MSN</a>.</p>
+[daringfireball]: http://daringfireball.net/projects/markdown/basics
+[stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
