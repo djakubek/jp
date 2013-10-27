@@ -8,8 +8,8 @@ jp
   - [dodawanie obrazków] [stackoverflow-screenshots]
 * podstawy secure shell.
 * edytory
-* [ciekawe]
-* [Sublimteks] <- Program
+* [ciekawe] <- Wbzyl
+* [Sublimteks] <- Program Sublime Tekst
 * [LightTable] <- Program php, html Bajka !
 * konfiguracja srodowiska graficzne xfce
 
@@ -50,4 +50,3 @@ cd Sublime\ Text\ 2
 chmod 755 sublime_text
 ./sublime_text
 ```
-I program dziala :)
