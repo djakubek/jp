@@ -9,7 +9,7 @@ jp
 * podstawy secure shell.
 * edytory
 * [ciekawe] <- Wbzyl
-* [Sublimteks] <- Program Sublime Tekst
+* [Sublimteks] <- Program Sublime Tekst :)
 * [LightTable] <- Program php, html Bajka !
 * konfiguracja srodowiska graficzne xfce
 
