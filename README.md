@@ -12,6 +12,7 @@ jp
 * [Sublimteks] <- Program Sublime Tekst :)
 * [LightTable] <- Program php, html Bajka !
 * konfiguracja srodowiska graficzne xfce
+* [freebsd] <- strona manuala
 
 
 
@@ -35,6 +36,7 @@ main(){
 print("hello word");
 }
 ```
+[freebsd]: http://www.freebsd.org/cgi/man.cgi
 [daringfireball]: http://daringfireball.net/projects/markdown/basics
 [stackoverflow-screenshots]:http://daringfireball.net/projects/markdown/basics
 [ciekawe]:http://wbzyl.inf.ug.edu.pl/sp/
