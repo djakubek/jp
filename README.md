@@ -29,7 +29,6 @@ xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx
 
 ```
 
-
 ## Zmiana hasła
 
 ```sh
@@ -56,7 +55,7 @@ print("hello word");
 [Sublimteks]:http://www.sublimetext.com/
 [LightTable]:http://www.lighttable.com/
 
-## Edytory 
+## Edytor
 * Rozpakowywanie
 
 ```sh
