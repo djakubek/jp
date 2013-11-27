@@ -28,6 +28,11 @@ The key fingerprint is:
 xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx
 
 ```
+## Konfiguracja Git'a
+````sh
+git config --global user.name "Wlodek Bzyl"
+git config --global user.email "matwb@univ.gda.pl"
+```
 
 ## Zmiana hasła
 
