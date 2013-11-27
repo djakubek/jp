@@ -1,4 +1,4 @@
-jp
+Jezyki programowania
 ==
 
  Program na dzisiaj : 
@@ -14,7 +14,20 @@ jp
 * konfiguracja srodowiska graficzne xfce
 * [freebsd] <- strona manuala
 
+## Generowanie kluczy publicznych
 
+```sh
+ssh-keygen -t rsa
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/użytkownik/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/użytkownik/.ssh/id_rsa.
+Your public key has been saved in /home/użytkownik/.ssh/id_rsa.pub.
+The key fingerprint is:
+xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx
+
+```
 
 
 ## Zmiana hasła
