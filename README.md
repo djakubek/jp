@@ -30,8 +30,8 @@ xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx
 ```
 ## Konfiguracja Git'a
 ````sh
-git config --global user.name "Wlodek Bzyl"
-git config --global user.email "matwb@univ.gda.pl"
+git config --global user.name "Imie i nazwisko"
+git config --global user.email "twoj email"
 ```
 
 ## Zmiana hasła
