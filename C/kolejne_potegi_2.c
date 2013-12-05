@@ -1,5 +1,5 @@
 /*Program, który wypisuje kolejne potęgi 
-liczby 2 nie przekraczające 2010.*/
+liczby 2 nie przekraczające 2010*/
 #include <stdio.h>
 
 int main()
